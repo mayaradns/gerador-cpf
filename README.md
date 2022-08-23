@@ -9,4 +9,4 @@ Complementei o projeto usando interface gráfica.
 
 ### Preview
 
-![](/home/may/Imagens/Gerador.png)
+![](imagens/Gerador.png)

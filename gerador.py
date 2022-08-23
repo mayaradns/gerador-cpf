@@ -5,7 +5,7 @@ from random import randint
 sg.theme('dark grey 9')
 
 layout = [
-    [sg.Image(filename='logo1.png')],
+    [sg.Image(filename='imagens/logo1.png')],
     [sg.Text('CPF', font='Arial, 20', pad=(0, (0, 10)))],
     [sg.Output(key='saida', font='Heveltica 18', pad=(0, (0, 10)))],
     [sg.Button('Gerar', font='Arial, 14', button_color=('Gray', 'Blue')),
